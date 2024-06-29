@@ -1,0 +1,56 @@
+Ways to Contribute
+You can contribute to Galactic Text Lab in several ways:
+
+* Reporting Issues: Help improve Galactic Text Lab by reporting bugs, suggesting enhancements, or providing feedback.
+* Submitting Code Fixes: Fix issues listed in the issue tracker or address any identified bugs.
+* Adding Features: Implement new features or enhance existing functionalities.
+* Improving Documentation: Enhance the README.md file, update documentation, or provide examples.
+* Reviewing Pull Requests: Review and provide constructive feedback on pull requests from other contributors.
+
+Getting Started
+
+Setting Up Your Development Environment
+Fork the Repository: Clone the repository to your GitHub account and create a local copy.
+
+
+
+git clone https://github.com/RoguePayload/GalacticTextLab.git
+cd galactic-text-lab
+Install Dependencies: Install necessary dependencies using pip.
+
+
+
+pip install -r requirements.txt
+Set Up API Keys: Obtain and configure API keys for NASA and IBM Watson as described in the README.md file.
+
+Making Changes
+Create a Branch: Create a new branch for your feature or bug fix.
+
+
+
+git checkout -b feature/your-feature-name
+Code: Implement your changes, adhering to the coding style and guidelines used in the project.
+
+Test: Ensure all existing tests pass and write new tests as needed to validate your changes.
+
+Submitting Changes
+Commit: Commit your changes with clear and descriptive commit messages.
+
+git add .
+git commit -m "Add feature/fix issue: concise description"
+Push: Push your changes to your forked repository.
+
+git push origin feature/your-feature-name
+Create Pull Request: Submit a pull request (PR) to the main branch of the original repository. Provide a detailed description of your changes, including any relevant information for reviewers.
+
+Review Process
+Your pull request will undergo review by project maintainers. Feedback or changes may be requested to ensure compatibility and adherence to project standards.
+Once approved, your changes will be merged into the main branch and become part of the next release.
+Code of Conduct
+Please adhere to our Code of Conduct in all interactions related to Galactic Text Lab.
+
+Contact
+For questions, support, or further information, contact us at info@roguepayload.space
+
+Acknowledgments
+We appreciate all contributions to Galactic Text Lab and acknowledge the efforts of our contributors in making this project successful.
